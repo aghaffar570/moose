@@ -1,21 +1,3 @@
 ## moose
 
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this is a test proj
-this
+This is the readme file
