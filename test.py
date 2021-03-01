@@ -1,6 +1,6 @@
-def test():
-  print('hey')
-  
-  
-test()
+def sayHello():
+  print('Hello')
+
+
+sayHello()
 print('run test function')
